@@ -1,2 +1,4 @@
 # Generated at: 2024-10-18 09:07:30                                   #
-chickgoddess.com
+0.0.0.0 chickgoddess.com
+0.0.0.0 inquiring-client.chickgoddess.com
+0.0.0.0 ga.chickgoddess.com
